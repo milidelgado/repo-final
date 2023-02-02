@@ -11838,3 +11838,10 @@ textarea.form-control-lg {
     display: none !important;
   }
 }/*# sourceMappingURL=custom.css.map */
+
+.btn-volver{
+  background-color: #032830;
+  text-align: center;
+  color: white;
+  border-radius: 0.25rem;
+}
